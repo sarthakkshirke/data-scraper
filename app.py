@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import time
 
-API_KEY = "AIzaSyBwaVRIyDN-rfYpFj7LxVDmzS-MYKO5BUw"
+API_KEY = "YOUR-GOOGLE-PLACES-API-KEY"
 
 CITIES = [
     "Muscat", "Salalah", "Sohar", "Nizwa", "Sur", "Ibri", "Barka", "Seeb", "Rustaq", "Ibra",
